@@ -10,7 +10,9 @@ public class LoginController
 	public String login()
 	{		
 		System.out.println("Inside LoginController");
-		return "HomePage.jsp";		
+		return "HomePage.jsp";	// Commenting to test suffix configured in application.properties file
+		//return "HomePage";	
+		
 	}
 
 }

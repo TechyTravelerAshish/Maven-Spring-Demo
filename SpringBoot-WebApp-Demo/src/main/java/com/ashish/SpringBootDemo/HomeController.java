@@ -11,8 +11,8 @@ public class HomeController
 	{		
 		//return "index.jsp";
 		System.out.println("Inside HomeController");
-		return "login.html";
-		
+		return "login.html";  // Commenting to test suffix configured in application.properties file
+		//return "login";
 	}
 
 }
