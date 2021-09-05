@@ -4,11 +4,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * Hello world!
- * 
- * 
  * First Maven Demo Application Core Java. Arch TYpe Selected is :- quickstart
- * 
  *       Youtube Tutorial - Telusko - https://www.youtube.com/watch?v=jdRd5hR9ON8
  *       https://www.youtube.com/watch?v=If1Lw4pLLEo
         
