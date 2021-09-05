@@ -43,7 +43,7 @@
     <version>9.0.52</version>
 </dependency>
 
-	</dependencies>
+</dependencies>
 
 	<build>
 		<plugins>
